@@ -2,9 +2,10 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Oof'
-SITENAME = 'My Cool Site'
+AUTHOR = 'htruong1'
+SITENAME = 'Oof'
 SITEURL = ''
+THEME = 'templates/mytheme'
 
 PATH = 'content'
 
